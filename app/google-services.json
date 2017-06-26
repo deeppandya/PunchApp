@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "142615229366",
+    "firebase_url": "https://punch-app-1b494.firebaseio.com",
+    "project_id": "punch-app-1b494",
+    "storage_bucket": "punch-app-1b494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142615229366:android:8595f6950bfb06e8",
+        "android_client_info": {
+          "package_name": "mainpackage.punchapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142615229366-iosca3h2fj1f13gbq5ck2fmkalgdpu22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCesDhp5CpwOskXOXCK9ihS0qp6fsKrBnY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
